@@ -1,7 +1,7 @@
 ShadowsocksR
 ===========
 
-[![Build Status]][Travis CI]
+[![Build Status](https://travis-ci.org/Readour/shadowsocksr.svg?branch=master)](https://travis-ci.org/Readour/shadowsocksr)
 
 A fast tunnel proxy that helps you bypass firewalls.
 
