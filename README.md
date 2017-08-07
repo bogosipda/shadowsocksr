@@ -18,11 +18,11 @@ Debian / Ubuntu:
 CentOS:
 
     yum install git
-    git clone https://github.com/readour/shadowsocksr.git
+    git clone https://github.com/readour/shadowsocksr.git
 
 Windows:
 
-    git clone https://github.com/readour/shadowsocksr.git
+    git clone https://github.com/readour/shadowsocksr.git
 
 ### Usage for single user on linux platform
 
