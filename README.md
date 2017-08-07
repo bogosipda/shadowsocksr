@@ -13,7 +13,7 @@ Server
 Debian / Ubuntu:
 
     apt-get install git
-    git clone https://github.com/readour/shadowsocksr.git
+    git clone https://github.com/readour/shadowsocksr.git
 
 CentOS:
 
